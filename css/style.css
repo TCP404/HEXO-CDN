@@ -4731,6 +4731,7 @@ p[gray] {
 }
 
 img.logo {
+    margin: 20px;
 	transform: rotate(0deg);
 	-webkit-transform: rotate(0deg);
 	-moz-transform: rotate(0deg);
