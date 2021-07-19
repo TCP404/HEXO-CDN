@@ -1,2 +1,0 @@
-# HEXO-CDN
-jsDelivr
